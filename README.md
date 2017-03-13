@@ -18,6 +18,7 @@ The project is a virtual reality mobile application that allows a user to partic
 * Sinatra
 * PostgresSQL
 * Heroku
+* Xcode
 
 #### Languages
 
