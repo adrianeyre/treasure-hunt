@@ -83,4 +83,8 @@ The contributors to this project are:
 * [Joe Marriott] (https://github.com/J-Marriott)
 
 ## <a name="flow">Screen Flow</a>
+### Application Flow (Temp)
 [![Screenshot](https://raw.githubusercontent.com/adrianeyre/treasure-hunt/master/images/ScreenFlow.png)](https://raw.githubusercontent.com/adrianeyre/treasure-hunt/master/images/ScreenFlow.png "Screen Shot 1")
+
+### Database Schema Example (Temp)
+[![Screenshot](https://raw.githubusercontent.com/adrianeyre/treasure-hunt/master/images/schema.png)](https://raw.githubusercontent.com/adrianeyre/treasure-hunt/master/images/schema.png "Screen Shot 1")
