@@ -83,4 +83,4 @@ The contributors to this project are:
 * [Joe Marriott] (https://github.com/J-Marriott)
 
 ## <a name="flow">Screen Flow</a>
-[![Screenshot](https://raw.githubusercontent.com/adrianeyre/treasure-hunt/master/images/ScreenFlow.png)](https://raw.githubusercontent.com/adrianeyre/inventory/master/treasure-hunt/ScreenFlow.png "Screen Shot 1")
+[![Screenshot](https://raw.githubusercontent.com/adrianeyre/treasure-hunt/master/images/ScreenFlow.png)](https://raw.githubusercontent.com/adrianeyre/treasure-hunt/master/images/ScreenFlow.png "Screen Shot 1")
