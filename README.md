@@ -14,7 +14,7 @@ The project is a virtual reality mobile application that allows a user to partic
 
 * Unity
 * Vuforia
-* NUnity
+* NUnit
 * Rspec
 * Capybara
 * Sinatra
