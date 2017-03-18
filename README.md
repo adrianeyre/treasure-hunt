@@ -84,7 +84,10 @@ The contributors to this project are:
 
 ## <a name="flow">Screen Flow</a>
 ### Application Flow (Temp)
-[![Screenshot](https://raw.githubusercontent.com/adrianeyre/treasure-hunt/master/images/ScreenFlow.png)](https://raw.githubusercontent.com/adrianeyre/treasure-hunt/master/images/ScreenFlow.png "Screen Shot 1")
+[![Screenshot](https://raw.githubusercontent.com/adrianeyre/treasure-hunt/master/images/GameFlow.png)](https://raw.githubusercontent.com/adrianeyre/treasure-hunt/master/images/GameFlow.png "Screen Shot 1")
+
+### Game View (Temp)
+[![Screenshot](https://raw.githubusercontent.com/adrianeyre/treasure-hunt/master/images/GameView.png)](https://raw.githubusercontent.com/adrianeyre/treasure-hunt/master/images/GameView.png "Screen Shot 1")
 
 ### Database Schema Example (Temp)
 [![Screenshot](https://raw.githubusercontent.com/adrianeyre/treasure-hunt/master/images/schema.png)](https://raw.githubusercontent.com/adrianeyre/treasure-hunt/master/images/schema.png "Screen Shot 1")
