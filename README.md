@@ -77,10 +77,10 @@ I want to get clues as to the next point of interest in the treasure hunt when I
 
 The contributors to this project are:
 
-* [Adrian Eyre] (https://github.com/adrianeyre)
-* [Sam Jones] (https://github.com/samjones1001)
-* [Paul Goodman] (https://github.com/thegooders)
-* [Joe Marriott] (https://github.com/J-Marriott)
+* [Adrian Eyre](https://github.com/adrianeyre)
+* [Sam Jones](https://github.com/samjones1001)
+* [Paul Goodman](https://github.com/thegooders)
+* [Joe Marriott](https://github.com/J-Marriott)
 
 ## <a name="flow">Screen Flow</a>
 ### Application Flow (Temp)
