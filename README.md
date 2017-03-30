@@ -6,17 +6,24 @@ A week 11-12 final group project for the contributors on the [Makers Academy](ht
 
 A mobile app which allows users to create and follow treasure hunt trails of local points of interest based on gps coordinates.
 
+* [Project Contributors](#project-contributors)
 * [Technologies Employed](#technologies-employed)
 * [Usage Instructions](#usage-instructions)
 * [User Stories(MVP)](#user-stories)
-* [Project Contributors](#project-contributors)
 * [Presentation](#pres)
 * [Screen Flow](#flow)
 * [Game View](#game-view)
 * [Database Schema](#schema)
 
-## <a name="technologies-employed">Technologies Employed</a>
+## <a name="project-contributors">Project Contributors</a>
+The contributors to this project are:
 
+* [Adrian Eyre](https://github.com/adrianeyre)
+* [Sam Jones](https://github.com/samjones1001)
+* [Paul Goodman](https://github.com/thegooders)
+* [Joe Marriott](https://github.com/J-Marriott)
+
+## <a name="technologies-employed">Technologies Employed</a>
 ### Frameworks/Platforms
 
 * Unity
@@ -65,14 +72,6 @@ As a User,
 So that I can continue playing the game
 I want the application to load the next clue
 ```
-
-## <a name="project-contributors">Project Contributors</a>
-The contributors to this project are:
-
-* [Adrian Eyre](https://github.com/adrianeyre)
-* [Sam Jones](https://github.com/samjones1001)
-* [Paul Goodman](https://github.com/thegooders)
-* [Joe Marriott](https://github.com/J-Marriott)
 
 ## <a name="pres">Presentation</a>
 [![Screenshot](https://raw.githubusercontent.com/adrianeyre/treasure-hunt/master/images/presentation.png)](https://raw.githubusercontent.com/adrianeyre/treasure-hunt/master/images/presentation.png "Presentation")
