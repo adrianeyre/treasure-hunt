@@ -1,0 +1,16 @@
+<h1><%= @treasure_hunt[0].title %></h1><br>
+<form action='/hunts/edit' method='post'>
+Clue Text <input type="text" name="clueText" id="clueText" size="50" required><br>
+Longitude <input type="text" name="longitude" id="longitude" size="50" required><br>
+Latitude <input type="text" name="latitude" id="latitude" size="50" required><br>
+<input type="submit" name="Submit" id="Submit" value="Submit"></td>
+</form>
+<h2>Clues</h2>
+<% @clues.each do |clue| %>
+  <%= clue.clueID %>
+  <%= clue.clueText %>
+  <%= clue.longitude %>
+  <%= clue.latitude %>
+  <a href="https://www.google.co.uk/maps/search/morrisons+mansfield/@<%=clue.latitude%>,<%=clue.longitude%>,14z" target="_blank">map</a>
+  <br><br>
+<% end %>

@@ -1,0 +1,8 @@
+<h1>Treasure Hunts</h1>
+<% @treasurehunts.each do |hunt| %>
+  <%= hunt.id %>
+  <%= hunt.title %>
+  <a href="hunts/edit?TreasureHuntID=<%=hunt.id%>">edit</a>
+  <br>
+<% end %>
+<a href="hunts/new">add new hunt</a>
