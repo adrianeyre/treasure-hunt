@@ -47,7 +47,7 @@ The contributors to this project are:
 
 To clone the application
 ```
-$ git@github.com:adrianeyre/treasure-hunt.git
+$ git clone https://github.com/adrianeyre/treasure-hunt
 $ cd treasure-hunt
 ```
 ## <a name="user-stories">User Stories (MVP)</a>
