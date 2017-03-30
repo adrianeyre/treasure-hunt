@@ -1,4 +1,4 @@
-# Treasure Hunt Mobile App
+# Treasure Hunt Mobile Phone Application
 
 ### Introduction
 
