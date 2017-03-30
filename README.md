@@ -1,6 +1,6 @@
 # Treasure Hunt Mobile Phone Application
 
-### Introduction
+## Introduction
 
 A week 11-12 final group project for the contributors on the [Makers Academy](http://www.makersacademy.com) full stack web development course.
 
