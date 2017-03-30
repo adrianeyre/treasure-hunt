@@ -40,36 +40,23 @@ Then, in your browser, navigate to [].
 
 ### User Stories (MVP)
 
-#### User Story 1
 ```
 As a User
 I want to select different treasure hunts
 So that I can play the game.
-```
 
-#### User Story 2
-```
 As a User
 I want to start a treasure hunt
 So that I can play the game.
-```
-#### User Story 3
-```
+
 As a User
 So that I know I an near the point of interest
 I want to the application to display the approximate distance I am away
-```
 
-#### User Story 4
-```
 As a User,
 So that I know I am at the point of interest
 I want the application to display a sign informing me of this
-```
 
-
-#### User Story 5
-```
 As a User,
 So that I can continue playing the game
 I want the application to load the next clue
