@@ -11,6 +11,7 @@ A mobile app which allows users to create and follow treasure hunt trails of loc
 * [Usage Instructions](#usage-instructions)
 * [User Stories(MVP)](#user-stories)
 * [Presentation](#pres)
+* [Youtube clip of the application](#demo)
 * [Screen Flow](#flow)
 * [Game View](#game-view)
 * [Database Schema](#schema)
@@ -75,6 +76,9 @@ I want the application to load the next clue
 
 ## <a name="pres">Presentation</a>
 [![Screenshot](https://raw.githubusercontent.com/adrianeyre/treasure-hunt/master/images/presentation.png)](https://raw.githubusercontent.com/adrianeyre/treasure-hunt/master/images/presentation.png "Presentation")
+
+## <a name="demo">Demo</a>
+[Youtube clip of the application](https://www.youtube.com/watch?v=FPNWk3jkreI)
 
 ## <a name="flow">Screen Flow</a>
 ### Application Flow
