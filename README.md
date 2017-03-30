@@ -6,11 +6,17 @@ A week 11-12 final group project for the contributors on the [Makers Academy](ht
 
 The project is a virtual reality mobile application that allows a user to participate in treasure hunts and find points of interest in their virtual locale.
 
-[Technologies Employed](#technologies-employed) | [Usage Instructions](#usage-instructions) | [User Stories(MVP)](#user-stories) | [Project Contributors](#project-contributors)|
+* [Technologies Employed](#technologies-employed)
+* [Usage Instructions](#usage-instructions)
+* [User Stories(MVP)](#user-stories)
+* [Project Contributors](#project-contributors)
+* [Screen Flow](#flow)
+* [Game View](#game-view)
+* [Database Schema](#schema)
 
-### Technologies Employed
+## <a name="technologies-employed">Technologies Employed</a>
 
-#### Frameworks/Platforms
+### Frameworks/Platforms
 
 * Unity
 * Vuforia
@@ -22,23 +28,20 @@ The project is a virtual reality mobile application that allows a user to partic
 * Heroku
 * Xcode
 
-#### Languages
+### Languages
 
 * C#
 * Ruby
 * Swift
 
-### Usage Instructions
+## <a name="usage-instructions">Usage Instructions</a>
 
 To clone the application
 ```
 $ git@github.com:adrianeyre/treasure-hunt.git
 $ cd treasure-hunt
 ```
-
-Then, in your browser, navigate to [].
-
-### User Stories (MVP)
+## <a name="user-stories">User Stories (MVP)</a>
 
 ```
 As a User
@@ -62,7 +65,7 @@ So that I can continue playing the game
 I want the application to load the next clue
 ```
 
-### Project Contributors
+## <a name="project-contributors">Project Contributors</a>
 The contributors to this project are:
 
 * [Adrian Eyre](https://github.com/adrianeyre)
@@ -74,8 +77,8 @@ The contributors to this project are:
 ### Application Flow
 [![Screenshot](https://raw.githubusercontent.com/adrianeyre/treasure-hunt/master/images/GameFlow.png)](https://raw.githubusercontent.com/adrianeyre/treasure-hunt/master/images/GameFlow.png "Screen Shot 1")
 
-### Game View
+## <a name="game-view">Game View</a>
 [![Screenshot](https://raw.githubusercontent.com/adrianeyre/treasure-hunt/master/images/GameView.png)](https://raw.githubusercontent.com/adrianeyre/treasure-hunt/master/images/GameView.png "Screen Shot 1")
 
-### Database Schema
+## <a name="schema">Database Schema</a>
 [![Screenshot](https://raw.githubusercontent.com/adrianeyre/treasure-hunt/master/images/schema.png)](https://raw.githubusercontent.com/adrianeyre/treasure-hunt/master/images/schema.png "Screen Shot 1")
