@@ -4,12 +4,13 @@
 
 A week 11-12 final group project for the contributors on the [Makers Academy](http://www.makersacademy.com) full stack web development course.
 
-The project is a virtual reality mobile application that allows a user to participate in treasure hunts and find points of interest in their virtual locale.
+A mobile app which allows users to create and follow treasure hunt trails of local points of interest based on gps coordinates.
 
 * [Technologies Employed](#technologies-employed)
 * [Usage Instructions](#usage-instructions)
 * [User Stories(MVP)](#user-stories)
 * [Project Contributors](#project-contributors)
+* [Presentation](#pres)
 * [Screen Flow](#flow)
 * [Game View](#game-view)
 * [Database Schema](#schema)
@@ -73,12 +74,15 @@ The contributors to this project are:
 * [Paul Goodman](https://github.com/thegooders)
 * [Joe Marriott](https://github.com/J-Marriott)
 
+## <a name="pres">Presentation</a>
+[![Screenshot](https://raw.githubusercontent.com/adrianeyre/treasure-hunt/master/images/presentation.png)](https://raw.githubusercontent.com/adrianeyre/treasure-hunt/master/images/presentation.png "Presentation")
+
 ## <a name="flow">Screen Flow</a>
 ### Application Flow
-[![Screenshot](https://raw.githubusercontent.com/adrianeyre/treasure-hunt/master/images/GameFlow.png)](https://raw.githubusercontent.com/adrianeyre/treasure-hunt/master/images/GameFlow.png "Screen Shot 1")
+[![Screenshot](https://raw.githubusercontent.com/adrianeyre/treasure-hunt/master/images/GameFlow.png)](https://raw.githubusercontent.com/adrianeyre/treasure-hunt/master/images/GameFlow.png "Game Flow")
 
 ## <a name="game-view">Game View</a>
-[![Screenshot](https://raw.githubusercontent.com/adrianeyre/treasure-hunt/master/images/GameView.png)](https://raw.githubusercontent.com/adrianeyre/treasure-hunt/master/images/GameView.png "Screen Shot 1")
+[![Screenshot](https://raw.githubusercontent.com/adrianeyre/treasure-hunt/master/images/GameView.png)](https://raw.githubusercontent.com/adrianeyre/treasure-hunt/master/images/GameView.png "Game View")
 
 ## <a name="schema">Database Schema</a>
-[![Screenshot](https://raw.githubusercontent.com/adrianeyre/treasure-hunt/master/images/schema.png)](https://raw.githubusercontent.com/adrianeyre/treasure-hunt/master/images/schema.png "Screen Shot 1")
+[![Screenshot](https://raw.githubusercontent.com/adrianeyre/treasure-hunt/master/images/schema.png)](https://raw.githubusercontent.com/adrianeyre/treasure-hunt/master/images/schema.png "Database Schema")
