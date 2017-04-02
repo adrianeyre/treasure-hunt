@@ -32,6 +32,7 @@ The contributors to this project are:
 * NUnit
 * Rspec
 * Capybara
+* Mocha
 * Zombie
 * Chai
 * Sinatra
