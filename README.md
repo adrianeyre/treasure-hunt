@@ -32,14 +32,18 @@ The contributors to this project are:
 * NUnit
 * Rspec
 * Capybara
+* Zombie
+* Chai
 * Sinatra
 * PostgresSQL
+* MongoDB
 * Heroku
 * Xcode
 
 ### Languages
 
 * C#
+* Javascript
 * Ruby
 * Swift
 
